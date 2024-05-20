@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>Hello,三体</h1>
-
+    <h2>宇宙很大，生活更大，也许以后还会有缘相见。 —— 智子</h2>
   </div>
 </template>
 
